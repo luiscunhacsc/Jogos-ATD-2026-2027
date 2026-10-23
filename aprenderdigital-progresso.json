@@ -1,0 +1,455 @@
+{
+  "app": "aprenderdigital",
+  "version": 1,
+  "exportedAt": "2026-10-23T16:27:48.006Z",
+  "records": {
+    "m1q1": {
+      "attempts": 2,
+      "xp": 10,
+      "mastered": true,
+      "first": false,
+      "last": true
+    },
+    "m1q2": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m1q3": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m1q4": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m1q5": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m1q6": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m1q7": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m1q8": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m2q1": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m2q2": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m2q3": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m2q4": {
+      "attempts": 2,
+      "xp": 10,
+      "mastered": true,
+      "first": false,
+      "last": true
+    },
+    "m2q5": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m2q6": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m2q7": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m2q8": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q1": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q2": {
+      "attempts": 2,
+      "xp": 10,
+      "mastered": true,
+      "first": false,
+      "last": true
+    },
+    "m3q3": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q4": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q5": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q6": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q7": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q8": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q9": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q10": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q11": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q12": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q13": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q14": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q15": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m3q16": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m4q1": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m4q2": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m4q3": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m4q4": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m4q5": {
+      "attempts": 2,
+      "xp": 10,
+      "mastered": true,
+      "first": false,
+      "last": true
+    },
+    "m4q6": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m4q7": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m4q8": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m5q1": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m5q2": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m5q3": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m5q4": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m5q5": {
+      "attempts": 2,
+      "xp": 10,
+      "mastered": true,
+      "first": false,
+      "last": true
+    },
+    "m5q6": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m5q7": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m5q8": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q1": {
+      "attempts": 2,
+      "xp": 10,
+      "mastered": true,
+      "first": false,
+      "last": true
+    },
+    "m6q2": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q3": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q4": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q5": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q6": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q7": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q8": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q9": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q10": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q11": {
+      "attempts": 2,
+      "xp": 10,
+      "mastered": true,
+      "first": false,
+      "last": true
+    },
+    "m6q12": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q13": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q14": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q15": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    },
+    "m6q16": {
+      "attempts": 1,
+      "xp": 10,
+      "mastered": true,
+      "first": true,
+      "last": true
+    }
+  }
+}
